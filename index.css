@@ -1,0 +1,12 @@
+.square {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 200px;
+    height: 200px;
+    background-color: black;
+}
+.square:hover {
+    background: url(https://i.gifer.com/origin/7e/7e4abc8a38403620fdb573948aa5c9b1.gif);
+}
